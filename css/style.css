@@ -1,0 +1,480 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .logo{
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+    text-decoration: none;
+    padding: 70px;
+    margin-top: 20px;
+    font-weight: 700;
+} */
+
+.navo{
+    background-image: url(https://kingsmanayan.github.io/food/image/bg.jpg);
+    height: 800px;
+    width: 100%;
+    position: relative;
+    align-items: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.logo1{
+    color: white;
+    font-size: 34px;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 50px;
+    margin: -19px;
+}
+
+/* .navo{
+    position: fixed;
+} */
+
+.headerr{
+    position: fixed;
+    z-index: 1;
+}
+.logo span{
+    color: red;
+}
+
+.row{
+    padding-left: 895px;
+    margin-top: -52px;
+}
+
+
+.menu{
+	position: relative;
+	display: flex;
+    padding-right: 60px;   
+}
+
+.jio{
+    color: white !important;
+}
+
+.jio:hover{
+    color: #ff0157 !important;
+}
+
+.mon{
+    color: white;
+}
+
+
+ .menu li{
+	list-style: none;
+	margin-left: 30px;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	font-weight: 300px;
+}
+
+header .menu li a{
+	color: #111;
+}
+header .menu li a:hover{
+	color: #ff0157;
+	text-decoration: underline;
+	letter-spacing: 2px;
+}
+.hero{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: -500px;
+    position: absolute;
+    margin-left: 290px;
+}
+
+.hro{
+    font-size: 77px;
+}
+
+.btn{
+    color: white;
+    background-color: #ff0157;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 30px;
+    margin-top: 20px;
+    transition: 0.5s;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.btn:hover{
+  letter-spacing: 6px;
+}
+
+.logo{
+    background: #154070;
+    padding: 25px 50px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.about {
+    padding: 50px 100px 0 100px;
+}
+ span{
+    color: #ff0157;
+    font-size: 42px;
+ }
+
+ .titleText{
+    font-size: 30px;
+
+ }
+
+ .abp{
+   float: right;
+   
+ }
+
+ .po{
+    width: 583px;
+    height: 343px;
+    margin-top: -6px;
+    border-radius: 8px;
+ }
+
+ .abouttext {
+    line-height: 25px;
+  }
+
+  .aboo{
+    position: relative;
+width: 100%;
+display: flex;
+justify-content: space-between;
+padding: 20px 0 0 0;
+  }
+
+  .ourm{
+    text-align: center;
+    
+  }
+
+  .ohmh{
+    padding: 60px 0 1px 0;
+  }
+
+  .snn .ohmh{
+    display: flex;
+justify-content: center;
+flex-wrap: wrap;
+margin-top: 40px;
+  }
+
+  .ohmh .snn .box {
+    width: 340px;
+    margin: 61px;
+    border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+    float: left;
+  }
+
+img{
+    height: 300px;
+    width: 340px;
+}
+
+.ormb{
+    text-align: center;
+}
+
+.box1{
+    width: 302px;
+    margin: 61px;
+    border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+    float: left;
+}
+
+.box2{
+    width: 340px;
+    margin: 61px;
+    border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+    float: left;
+}
+
+.box3{
+    width: 340px;
+    margin: 61px;
+    border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+    float: left;
+}
+
+.box4{
+    width: 340px;
+    margin: 61px;
+    border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+    float: left;
+}
+
+.box4{
+    width: 340px;
+    margin: 61px;
+    border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+    float: left;
+}
+
+.box5{
+    width: 340px;
+    margin: 61px;
+    border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+    float: left;
+}
+
+.box6{
+    width: 155px;
+    margin: 62px;
+    border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+    float: left;
+}
+
+.box7{
+    width: 155px;
+    margin: 62px;
+    /* border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08); */
+    float: left;
+}
+
+.box8{
+    width: 155px;
+    margin: 62px;
+    /* border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08); */
+    float: left;
+}
+
+.box9{
+    width: 155px;
+    margin: 62px;
+    /* border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08); */
+    float: left;
+}
+
+.box10{
+    width: 155px;
+    margin: 62px;
+    /* border: 15px solid white;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08); */
+    float: left;
+}
+
+#imo{
+    height: 300px;
+    width: 250px;
+}
+
+
+.simo{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-left: -77px;
+}
+
+
+/* Flex Traning # --------------------------------*/
+
+  
+.flex {
+    display: flex;
+    background-color: red;
+    flex-wrap: nowrap;
+
+  }
+  
+  .flex .leoji {
+    background-color: white;
+    width: 262px;
+    margin: 39px;
+    text-align: center;
+    line-height: 175px;
+    font-size: 50px;
+  }
+.ohvai{
+    background-color: white;
+    width: 262px;
+    margin: 39px;
+    text-align: center;
+    line-height: 175px;
+    font-size: 50px;
+}
+
+.ohbon{
+    background-color: white;
+    width: 262px;
+    margin: 39px;
+    text-align: center;
+    line-height: 175px;
+    font-size: 50px;
+}
+ 
+
+.babu{
+	background: url(https://kingsmanayan.github.io/food/image/bg2.jpg);
+	background-size: cover;
+	margin-bottom: 50px;
+	
+}
+.white .titleText {
+    color: #fff;
+    margin-top: 50px;
+}
+
+.babu1{
+    text-align: center;
+    color: white;
+}
+.white p{
+	color: #fff;
+}
+.babu .content{
+	display: flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    flex-direction:row;
+    margin-top: 40px;
+}
+.babu .content .box{
+	width: 300px;
+	margin:20px;
+	padding: 40px;
+	background: white;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+	box-shadow: 8px 8px 2px 1px rgba(0, 0, 0, 0.7);
+}
+.babu .content .box .imgBx{
+	position: relative;
+	width: 80px;
+	height: 80px;
+	margin-bottom: 20px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.babu .content .box .imgBx img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+    height: 100%;
+    object-fit:cover;
+
+}
+.babu .content .box .text{
+	text-align: center;
+	line-height: 25px;
+}
+.babu .content .box .text p{
+	color: #666;
+	font-style: initial;
+	font-style:italic;
+}
+.babu .content .box .text h3{
+	margin-top: 20px;
+	color: #111;
+	font-size: 1em;
+	font-weight: 600;
+}
+
+
+.contact{
+	background: url(https://kingsmanayan.github.io/food/image/bg3-1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 1px 0 50px 0;
+	margin-bottom: 20px;
+}
+
+.title{
+    text-align: center;
+    color: black;
+}
+.contact .title{
+	margin-top: 60px;
+}
+.contactForm{
+	padding: 75px 50px;
+	background: white;
+	box-shadow: 0 15px 50px rgba(0,0,0,0.8);
+	max-width: 450px;
+	margin-top: 50px;
+	margin-left: 60px;
+    border-radius: 15px;
+}
+.contactForm h3{
+	color: black;
+	font-size: 1.2em;
+	margin-bottom: 20px;
+	font-weight: 500px;
+}
+.contactForm .inputBox{
+	position: relative;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.contactForm .inputBox input , .inputBox textarea{
+	width: 100%;
+	border: 1px solid #555;
+	padding: 10px;
+	color: #111;
+	outline: none;
+	font-size: 16px;
+	font-weight: 300;
+	resize:none;
+	border-radius: 10px;
+}
+.contactForm .inputBox input[type="submit"] {
+	font-size: 1em;
+	color: white;
+	background: #e41359;
+	display: inline-block;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px;
+	transition:0.5s;
+	max-width: 100px;
+	font-weight: 500;
+	border: none;
+	cursor: pointer;
+
+}
+
+.fo{
+    background-color: #f2844e;
+    height: 100px;
+}
+
+.folo{
+    text-align: center;
+}
+
+.folo p span{
+    font-size: 16px;
+}
